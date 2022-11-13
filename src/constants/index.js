@@ -32,7 +32,7 @@ export const projects = {
         title: "Precious Resource",
         subtitle: "Hour timer Web Page",
         img: '/images/projectsImages/precious_resource.png',
-        description: '"Precious Resource" is a Hour timer which I have designed using React Js incorporated with Sass .',
+        description: 'Precious Resource is a Hour timer which I have designed using React Js incorporated with Sass .',
         link: 'https://preciousresource.netlify.app',
         delay: 0.4
     },
@@ -59,7 +59,7 @@ export const projects = {
         title: "Do and Get it",
         subtitle: "a Basic Calculator",
         img: '/images/projectsImages/doandgetit.png',
-        description: 'Do and Get it , a simple basic calculator, which I have designed using HTML, CSS and JavaScript.',
+        description: 'Do and Get it ,a simple basic calculator, which I have designed using HTML, CSS & JavaScript.',
         link: 'https://do-and-get-it.netlify.app',
         delay: 0.6
     },
