@@ -15,7 +15,7 @@ export const projects = {
         subtitle: "Life of Jenifar",
         img: '/images/projectsImages/jenifar.png',
         description: 'Glance of my life from the beginning unitl now , the life of Jenifar in this world.',
-        link: 'https://brusooo.netlify.app/',
+        link: 'https://jenifar.netlify.app/',
         delay: 0.2
     },
     projectThree: {
