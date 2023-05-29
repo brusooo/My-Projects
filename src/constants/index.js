@@ -24,7 +24,7 @@ export const projects = {
         subtitle: "Wallapaper Collections App",
         img: '/images/projectsImages/wallarant.png',
         description: 'Wallarant, an android app built using koltin . which has Collections of Wallapapers.',
-        link: '/',
+        link: 'https://play.google.com/store/apps/details?id=com.brusooo.wallarant',
         delay: 0.3
     },
     projectFour: {
